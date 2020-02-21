@@ -1,1 +1,1 @@
-Old project I made back in the day when the GRT website was a nightmare and wanted a faster way to see when the buses were coming in Waterloo. Returns what bus and what time it's arriving at a given stop in Waterloo/Kitchener area
+Fun little web scrapper project I made back in the day when the GRT website was a nightmare and wanted a faster way to see when the buses were coming in Waterloo. Returns what bus and what time it's arriving at when given a stop in Waterloo/Kitchener area
